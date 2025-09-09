@@ -18,7 +18,7 @@ It integrates with OpenAI and Hugging Face models for text generation, chaining,
 ```bash
 git clone https://github.com/jamshedali18/generative-ai-langchain.git
 cd generative-ai-langchain
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 ---
 
