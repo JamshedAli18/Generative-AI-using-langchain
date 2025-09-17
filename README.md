@@ -7,7 +7,7 @@ It integrates with OpenAI and Hugging Face models for text generation, chaining,
 
 ## 📌 Features
 - Use OpenAI & Hugging Face models
-- Build custom **LangChain pipelines**
+- Build custom **LangChain pipelines 
 - Modular design for easy extension
 - Includes Jupyter notebooks for experiments
 
